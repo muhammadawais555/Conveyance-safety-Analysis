@@ -1,0 +1,15 @@
+Easy:
+What is the total number of miles traveled in the selected state?
+What is the total number of fatalities reported in the selected state?
+What is the death rate per 100 million vehicle miles traveled in 2018 for the selected state?
+How has the average number of miles driven changed over the years?
+
+
+Intermediate:
+How are fatalities distributed across different years in the selected state?
+What is the geographical distribution of fatalities across the state?
+How has the average number of Fatalities changed over the years?
+
+Hard:
+How do the actual fatalities compare to the target number of fatalities over the years in the selected state?
+How has the fatality rate as per 100 million miles travelled by the vehicle changed over the year?
